@@ -1,4 +1,4 @@
- name: Install NodeJS
+ name: Install Flask
  on: [push]
  jobs:
    test:
